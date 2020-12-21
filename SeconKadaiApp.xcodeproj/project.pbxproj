@@ -13,6 +13,7 @@
 		D14F875E25908EC600339BE9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D14F875C25908EC600339BE9 /* Main.storyboard */; };
 		D14F876025908EC800339BE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D14F875F25908EC800339BE9 /* Assets.xcassets */; };
 		D14F876325908EC800339BE9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D14F876125908EC800339BE9 /* LaunchScreen.storyboard */; };
+		D14F876B25908FCD00339BE9 /* NameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D14F876A25908FCD00339BE9 /* NameViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D14F875F25908EC800339BE9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D14F876225908EC800339BE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D14F876425908EC800339BE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D14F876A25908FCD00339BE9 /* NameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D14F875625908EC600339BE9 /* AppDelegate.swift */,
 				D14F875825908EC600339BE9 /* SceneDelegate.swift */,
 				D14F875A25908EC600339BE9 /* ViewController.swift */,
+				D14F876A25908FCD00339BE9 /* NameViewController.swift */,
 				D14F875C25908EC600339BE9 /* Main.storyboard */,
 				D14F875F25908EC800339BE9 /* Assets.xcassets */,
 				D14F876125908EC800339BE9 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				D14F875B25908EC600339BE9 /* ViewController.swift in Sources */,
 				D14F875725908EC600339BE9 /* AppDelegate.swift in Sources */,
 				D14F875925908EC600339BE9 /* SceneDelegate.swift in Sources */,
+				D14F876B25908FCD00339BE9 /* NameViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
